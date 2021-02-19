@@ -2,6 +2,8 @@
 
 Information connected to Machine Learning and how to start exploring data science.
 
+To use the Jupyter notebook, download this repository or the folder called "JupyterNotebooks".
+
 ## Jupyter Notebook
 
 To access the Jupyter Notebooks, you need to have Jupyter Notebook installed. Link to how you can install Jupyter Notebook:
